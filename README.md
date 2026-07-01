@@ -1,6 +1,6 @@
 # Rainmeter 网络监控皮肤 (Network Monitor)
 
-这是一个基于 Rainmeter 的轻量级网络监控皮肤，支持实时显示 IP、MAC 地址及网卡状态。
+这是一个基于 Rainmeter 的轻量级网络监控皮肤，支持实时显示 IP、MAC 地址及自定义信息,主机名。
 ## 最终实现效果
 ![最终实现效果](效果图.png)
 
